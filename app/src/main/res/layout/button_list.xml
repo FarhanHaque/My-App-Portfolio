@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:text="Spotify Streamer"
+        android:id="@+id/button1" />
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/button_gap"
+        android:text="Football Scores App"
+        android:id="@+id/button2" />
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/button_gap"
+        android:text="Library App"
+        android:id="@+id/button3" />
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/button_gap"
+        android:text="Build It Bigger"
+        android:id="@+id/button4" />
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/button_gap"
+        android:text="XYZ Reader"
+        android:id="@+id/button5" />
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/button_gap"
+        android:text="Capstone:My Own App"
+        android:id="@+id/button6" />
+</LinearLayout>
