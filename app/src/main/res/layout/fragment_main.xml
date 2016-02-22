@@ -15,7 +15,6 @@
         android:text="@string/title"
         android:id="@+id/textView" />
 
-
     <include
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
@@ -25,3 +24,5 @@
         layout="@layout/button_list"/>
 
 </RelativeLayout>
+
+
